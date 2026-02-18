@@ -211,6 +211,7 @@ The dashboard provides insights into:
 - Ratings Distribution  
 - Customer Performance  
 
+Example: ![Dashboard Preview](https://github.com/impulkit48/Ola-data-analytics-project/blob/main/Snapshot%20of%20Dashboard.png)
 ---
 
 ## 💡 Key Insights (Example Section)
